@@ -55,5 +55,3 @@ Deployment: Joblib
 Project Team: Decoders
 
 Developer: Hep (SUNKARA MANOJ KUMAR)
-
-Would you like me to generate a professional LICENSE file (like MIT or Apache) to complete your repository setup?
